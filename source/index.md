@@ -4,14 +4,14 @@ language: en
 ---
 
 This is a website of resources created and managed by Earth and
-Environmental Engineering graduate students at Columbia University.
+Environmental Engineering (EEE) graduate students at Columbia
+University.
 
-#### Menu
+### Menu
 
-- [Current Environmental Engineering student
-  resources](current-student-resources.md)
+- [Resources for current Enviornmental Engineering students](current-student-resources.md)
 - [TA resources](ta-resources.md)
-- [Prospective Environmental Engineering student resources](prospective-student-resources.md)
+- [Resources for prospective Environmental Engineering students](prospective-student-resources.md)
 - [2021 Summer Seminar Series](seminar-series.md) - this is a seminar
   series for early career researchers (Ph.D. students and post
   docs). Speakers will be selected through an application process.

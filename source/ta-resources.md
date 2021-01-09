@@ -6,8 +6,8 @@ language: en
 Columbia EEE TA Student Resources
 ---------------------------------------
 
-This website hosts documentation for EAEE TAs. The website is provided
-for EAEE students, by EAEE students.
+This website hosts documentation for EEE TAs. The website is provided
+for EEE students, by EEE students.
 
 **Contributions are enthusiastically encouraged!** Please feel free to
 edit any of the Google documents and add files to any of the
@@ -16,12 +16,12 @@ materials are all password protected, but if you are the TA for that
 course and need permissions just request permission through Google or
 email Adam (uni:akm2203) he will fix that!
 
-### General EAEE TA resources (not course-specific)
+### General EEE TA resources (not course-specific)
 
--   [EAEE General TA
+-   [EEE General TA
     Resources](https://drive.google.com/open?id=11CtnP6b9XiIIkwqhN-H3P8evJnZzAOfNNfc6MnvpOmk) -
     document of general ideas and resources for TAs.
--   [EAEE General TA
+-   [EEE General TA
     Folder](https://drive.google.com/open?id=11zI63C5Vvl85B4pWQBX0SRVLIgYsPb0J) -
     a place to upload any stand alone documents or materials.
 
