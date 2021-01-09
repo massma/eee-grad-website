@@ -1,5 +1,5 @@
 ---
-pagetitle: "Columbia EEE TA Resources"
+pagetitle: "TA Resources"
 language: en
 ---
 

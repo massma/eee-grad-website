@@ -1,5 +1,5 @@
 ---
-pagetitle: "Columbia EEE Grad Student Resources"
+pagetitle: "Grad Student Resources"
 language: en
 ---
 
