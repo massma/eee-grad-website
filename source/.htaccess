@@ -1,0 +1,6 @@
+<Files ta-resources.html>
+AuthType Basic
+AuthName "Authentication Required"
+AuthUserFile /u/10/a/akm2203/public_html/eee-grad-website/.htpasswd
+Require valid-user
+</Files>
