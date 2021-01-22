@@ -12,10 +12,10 @@ University.
 - [Resources for current Enviornmental Engineering students](current-student-resources.md)
 - [TA resources](ta-resources.md) (password protected; if you are a TA
   email Adam (uni:akm2203) for the password)
-- [Resources for prospective Environmental Engineering students](prospective-student-resources.md)
 - [2021 Summer Seminar Series](seminar-series.md) - this is a seminar
   series for early career researchers (Ph.D. students and post
   docs). Speakers will be selected through an application process.
+- [Resources for prospective Environmental Engineering students](prospective-student-resources.md)
 
 #### Feedback and Contributions
 
