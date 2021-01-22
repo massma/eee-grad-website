@@ -3,8 +3,8 @@ pagetitle: "TA Resources"
 language: en
 ---
 
-Columbia EEE TA Student Resources
----------------------------------------
+### Columbia EEE TA Student Resources
+
 
 This website hosts documentation for EEE TAs. The website is provided
 for EEE students, by EEE students.
@@ -16,7 +16,7 @@ materials are all password protected, but if you are the TA for that
 course and need permissions just request permission through Google or
 email Adam (uni:akm2203) and he will fix that!
 
-### General EEE TA resources (not course-specific)
+#### General EEE TA resources (not course-specific)
 
 -   [EEE General TA
     Resources](https://drive.google.com/open?id=11CtnP6b9XiIIkwqhN-H3P8evJnZzAOfNNfc6MnvpOmk) -
@@ -28,182 +28,86 @@ email Adam (uni:akm2203) and he will fix that!
 
 #### Course-specific Repositories (ordered by course number)
 
+- **Alternative energy resources (EAEE 2002/4002)**
+    -   [Previous TAs, FAQ, and Course
+        Responsibilities](https://drive.google.com/open?id=1KN5rX5QtdD6X0wnOl1UdIsN9ONUY6-LrYsrm4YE96l0)
+    -   [Folder for uploading other course
+        materials](https://drive.google.com/open?id=1-QCpkvvXDYp1kiVEevhWiCk3VERvwh9r)
 
-- Alternative energy resources (EAEE 2002/4002)
+- **A better planet by design (EAEE 2100)**
+    -   [Previous TAs, FAQ, and Course
+        Responsibilities](https://drive.google.com/open?id=1mnbYxHmjbuJ9Q9dFDtCwPqL0E13eKfSB2Oqo1n-ZN_M)
+    -   [Folder for uploading other course
+        materials](https://drive.google.com/open?id=1-F1mqv_3tHMB1BrRr87n97wVkPLi1Lk8)
 
--   [Previous TAs, FAQ, and Course
-    Responsibilities](https://drive.google.com/open?id=1KN5rX5QtdD6X0wnOl1UdIsN9ONUY6-LrYsrm4YE96l0)
-    : a document with contact information, TA responsibilities, the
-    average weekly amount of time spent on each responsibility (I know
-    this varies strongly week to week, but these are just an estimate on
-    average time per week), and any other information that might help
-    future TAs (see ideas section above).
--   [Folder for uploading other course
-    materials](https://drive.google.com/open?id=1-QCpkvvXDYp1kiVEevhWiCk3VERvwh9r)
-    : folder for any other course materials (see ideas section above).
+- **Energy, Minerals, Materials Systems (EAEE 3103)**
+    -   [Previous TAs, FAQ, and Course
+        Responsibilities](https://drive.google.com/open?id=1mM4CV6z65v_-ABgVrC7vAuqPWxDE0MpS5w09cl_LIws)
+    -   [Folder for uploading other course
+        materials](https://drive.google.com/open?id=10DCXKEHvSzdiPjg_tSPCh0T4SLSamjgd)
 
+- **Applied transport and chemical rate phenomena (EAEE 3200)**
+    -   [Previous TAs, FAQ, and Course
+        Responsibilities](https://drive.google.com/open?id=1R_q9IyA4hpos7zQK_x2NR3xvbFEtzCNyMVfxFRXefj4)
+    -   [Folder for uploading other course
+        materials](https://drive.google.com/open?id=1-cJfQj-fjiO2c6fB5XZQSg0CQFKyX8Dr)
 
-### A better planet by design (EAEE 2100)
+- **Hydrosystems Engineering (CIEEE 3250/EAEE 4250)**
+    -   [Previous TAs, FAQ, and Course
+        Responsibilities](https://docs.google.com/document/d/1tPQmz4eouUYXpmrQ1-jMFqxR7EUW8Hyd8Y1_pBzz_9A/edit?usp=sharing)
+    -   [Folder for uploading other course
+        materials](https://drive.google.com/drive/folders/10c0HEn13nDM3s5kkCcB5-wh0V09E1ihS?usp=sharing)
 
--   [Previous TAs, FAQ, and Course
-    Responsibilities](https://drive.google.com/open?id=1mnbYxHmjbuJ9Q9dFDtCwPqL0E13eKfSB2Oqo1n-ZN_M)
-    : a document with contact information, TA responsibilities, the
-    average weekly amount of time spent on each responsibility (I know
-    this varies strongly week to week, but these are just an estimate on
-    average time per week), and any other information that might help
-    future TAs (see ideas section above).
--   [Folder for uploading other course
-    materials](https://drive.google.com/open?id=1-F1mqv_3tHMB1BrRr87n97wVkPLi1Lk8)
-    : folder for any other course materials (see ideas section above).
+- **Industrial ecology of earth resources (EAEE 4001)**
+    -   [Previous TAs, FAQ, and Course
+        Responsibilities](https://drive.google.com/open?id=1VyjE1CQfFeiWGpePn8n-lcaGOP9otZSIpE92EcVrGBQ)
+    -   [Folder for uploading other course
+        materials](https://drive.google.com/open?id=1-pasBhpfQCUvNNZ4JTqUcEay2A1gt8fJ)
 
-### Energy, Minerals, Materials Systems (EAEE 3103)
+- **Management and development of water systems (ECIA 4100)**
+    -   [Previous TAs, FAQ, and Course
+        Responsibilities](https://drive.google.com/open?id=1IVNMaff-i_Pvf73GNS56JBC4OjgIfDQ5GlJYdPoSj3Q)
+    -   [Folder for uploading other course
+        materials](https://drive.google.com/open?id=1-j9Q59b86aj5EmmCnX0rGXgUqpsTa3G9)
 
--   [Previous TAs, FAQ, and Course
-    Responsibilities](https://drive.google.com/open?id=1mM4CV6z65v_-ABgVrC7vAuqPWxDE0MpS5w09cl_LIws)
-    : a document with contact information, TA responsibilities, the
-    average weekly amount of time spent on each responsibility (I know
-    this varies strongly week to week, but these are just an estimate on
-    average time per week), and any other information that might help
-    future TAs (see ideas section above).
--   [Folder for uploading other course
-    materials](https://drive.google.com/open?id=10DCXKEHvSzdiPjg_tSPCh0T4SLSamjgd)
-    : (optional) upload any other course materials here. See the
-    \"*Materials to Document*\" section above for ideas of what to
-    document
+- **Solid & Hazardous Waste Management (EAEE 4160)**
+    - [Previous TAs, FAQ, and Course
+        Responsibilities](https://docs.google.com/document/d/1nNS3TXD_8Rv68xd2xNxcQx7iRNvSA5Nwayg8f12SqRY/edit?usp=sharing)
+    - [Folder for uploading other course
+        materials](https://drive.google.com/drive/folders/1RVsVq7W1n68f_4PXUK65e3XBCFbURxz-?usp=sharing)
 
-### Applied transport and chemical rate phenomena (EAEE 3200)
+- **Environmental data analysis & modeling (EAEE 4257)**
+    -   [Previous TAs, FAQ, and Course
+        Responsibilities](https://drive.google.com/open?id=1miM06ZoTv62FFneJi284l6mnZ9X4J1JQT_PiULpNXqY)
+    -   [Folder for uploading other course
+        materials](https://drive.google.com/open?id=1-g1hactELHuoyW8sJ6KuDvA8rKPGBFIT)
 
--   [Previous TAs, FAQ, and Course
-    Responsibilities](https://drive.google.com/open?id=1R_q9IyA4hpos7zQK_x2NR3xvbFEtzCNyMVfxFRXefj4)
-    : a document with contact information, TA responsibilities, the
-    average weekly amount of time spent on each responsibility (I know
-    this varies strongly week to week, but these are just an estimate on
-    average time per week), and any other information that might help
-    future TAs (see ideas section above).
--   [Folder for uploading other course
-    materials](https://drive.google.com/open?id=1-cJfQj-fjiO2c6fB5XZQSg0CQFKyX8Dr)
-    : folder for any other course materials (see ideas section above).
+- **CO2 utilization and conversion (EAEE 4305)**
+    -   [Previous TAs, FAQ, and Course
+        Responsibilities](https://drive.google.com/open?id=1wy4oES-408RcYdSvSz4VhjOu-fkFMNqYf9gtvOEb1ac)
+    -   [Folder for uploading other course
+        materials](https://drive.google.com/open?id=1-AbF9c7RAztb23mGdEZHKnhxmHr2hUOo)
 
+- **Industrial ecology of manufacturing (EAEE 4011)**
+    -   [Previous TAs, FAQ, and Course
+        Responsibilities](https://drive.google.com/open?id=1Wg5-m8oR-0uQ81IVri8-fDOzK7HsGjtWVkKGq9_xI4Y)
+    -   [Folder for uploading other course
+        materials](https://drive.google.com/open?id=1-wQSEycsrSuw9bpl_oK7X2is0nqlxQ-a)
 
+- **Industrial catalysis (EAEE 6150)**
+    -   [Previous TAs, FAQ, and Course
+        Responsibilities](https://drive.google.com/open?id=1K5oN2QkXqia9rB0Nd7pWQ9w9ciPJEqAUbBsS0gL-T6I)
+    -   [Folder for uploading other course
+        materials](https://drive.google.com/open?id=10GjfbQws28SlhnkvAkT1Z4KT_i-LpVTN)
 
-
-### Hydrosystems Engineering (CIEEE 3250/EAEE 4250)
-
--   [Previous TAs, FAQ, and Course
-    Responsibilities](https://docs.google.com/document/d/1tPQmz4eouUYXpmrQ1-jMFqxR7EUW8Hyd8Y1_pBzz_9A/edit?usp=sharing)
-    : a document with contact information, TA responsibilities, the
-    average weekly amount of time spent on each responsibility (I know
-    this varies strongly week to week, but these are just an estimate on
-    average time per week), and any other information that might help
-    future TAs (see ideas section above).
--   [Folder for uploading other course
-    materials](https://drive.google.com/drive/folders/10c0HEn13nDM3s5kkCcB5-wh0V09E1ihS?usp=sharing)
-    : folder for any other course materials (see ideas section above).
-
-### Industrial ecology of earth resources (EAEE 4001)
-
--   [Previous TAs, FAQ, and Course
-    Responsibilities](https://drive.google.com/open?id=1VyjE1CQfFeiWGpePn8n-lcaGOP9otZSIpE92EcVrGBQ)
-    : a document with contact information, TA responsibilities, the
-    average weekly amount of time spent on each responsibility (I know
-    this varies strongly week to week, but these are just an estimate on
-    average time per week), and any other information that might help
-    future TAs (see ideas section above).
--   [Folder for uploading other course
-    materials](https://drive.google.com/open?id=1-pasBhpfQCUvNNZ4JTqUcEay2A1gt8fJ)
-    : (optional) upload any other course materials here. See the
-    \"*Materials to Document*\" section above for ideas of what to
-    document
-
-### Management and development of water systems (ECIA 4100)
-
--   [Previous TAs, FAQ, and Course
-    Responsibilities](https://drive.google.com/open?id=1IVNMaff-i_Pvf73GNS56JBC4OjgIfDQ5GlJYdPoSj3Q)
-    : a document with contact information, TA responsibilities, the
-    average weekly amount of time spent on each responsibility (I know
-    this varies strongly week to week, but these are just an estimate on
-    average time per week), and any other information that might help
-    future TAs (see ideas section above).
--   [Folder for uploading other course
-    materials](https://drive.google.com/open?id=1-j9Q59b86aj5EmmCnX0rGXgUqpsTa3G9)
-    : (optional) upload any other course materials here. See the
-    \"*Materials to Document*\" section above for ideas of what to
-    document
+- **Physical hydrology (EAEE 6240)**
+    -   [Previous TAs, FAQ, and Course
+        Responsibilities](https://drive.google.com/open?id=18KP7fvxV7enSepjLTd8T7jqN372Jyn_4hJMEF8mfFkM)
+    -   [Folder for uploading other course
+        materials](https://drive.google.com/open?id=1-dxMpt9gi9O1ncRdDb7sJI0kBDItsazD)
 
 
-### Environmental data analysis & modeling (EAEE 4257)
-
--   [Previous TAs, FAQ, and Course
-    Responsibilities](https://drive.google.com/open?id=1miM06ZoTv62FFneJi284l6mnZ9X4J1JQT_PiULpNXqY)
-    : a document with contact information, TA responsibilities, the
-    average weekly amount of time spent on each responsibility (I know
-    this varies strongly week to week, but these are just an estimate on
-    average time per week), and any other information that might help
-    future TAs (see ideas section above).
--   [Folder for uploading other course
-    materials](https://drive.google.com/open?id=1-g1hactELHuoyW8sJ6KuDvA8rKPGBFIT)
-    : (optional) upload any other course materials here. See the
-    \"*Materials to Document*\" section above for ideas of what to
-    document
-
-### CO2 utilization and conversion (EAEE 4305)
-
--   [Previous TAs, FAQ, and Course
-    Responsibilities](https://drive.google.com/open?id=1wy4oES-408RcYdSvSz4VhjOu-fkFMNqYf9gtvOEb1ac)
-    : a document with contact information, TA responsibilities, the
-    average weekly amount of time spent on each responsibility (I know
-    this varies strongly week to week, but these are just an estimate on
-    average time per week), and any other information that might help
-    future TAs (see ideas section above).
--   [Folder for uploading other course
-    materials](https://drive.google.com/open?id=1-AbF9c7RAztb23mGdEZHKnhxmHr2hUOo)
-    : folder for any other course materials (see ideas section above).
-
-### Industrial ecology of manufacturing (EAEE 4011)
-
--   [Previous TAs, FAQ, and Course
-    Responsibilities](https://drive.google.com/open?id=1Wg5-m8oR-0uQ81IVri8-fDOzK7HsGjtWVkKGq9_xI4Y)
-    : a document with contact information, TA responsibilities, the
-    average weekly amount of time spent on each responsibility (I know
-    this varies strongly week to week, but these are just an estimate on
-    average time per week), and any other information that might help
-    future TAs (see ideas section above).
--   [Folder for uploading other course
-    materials](https://drive.google.com/open?id=1-wQSEycsrSuw9bpl_oK7X2is0nqlxQ-a)
-    : (optional) upload any other course materials here. See the
-    \"*Materials to Document*\" section above for ideas of what to
-    document
-
-### Industrial catalysis (EAEE 6150)
-
--   [Previous TAs, FAQ, and Course
-    Responsibilities](https://drive.google.com/open?id=1K5oN2QkXqia9rB0Nd7pWQ9w9ciPJEqAUbBsS0gL-T6I)
-    : a document with contact information, TA responsibilities, the
-    average weekly amount of time spent on each responsibility (I know
-    this varies strongly week to week, but these are just an estimate on
-    average time per week), and any other information that might help
-    future TAs (see ideas section above).
--   [Folder for uploading other course
-    materials](https://drive.google.com/open?id=10GjfbQws28SlhnkvAkT1Z4KT_i-LpVTN)
-    : (optional) upload any other course materials here. See the
-    \"*Materials to Document*\" section above for ideas of what to
-    document
-
-### Physical hydrology (EAEE 6240)
-
--   [Previous TAs, FAQ, and Course
-    Responsibilities](https://drive.google.com/open?id=18KP7fvxV7enSepjLTd8T7jqN372Jyn_4hJMEF8mfFkM)
-    : a document with contact information, TA responsibilities, the
-    average weekly amount of time spent on each responsibility (I know
-    this varies strongly week to week, but these are just an estimate on
-    average time per week), and any other information that might help
-    future TAs (see ideas section above).
--   [Folder for uploading other course
-    materials](https://drive.google.com/open?id=1-dxMpt9gi9O1ncRdDb7sJI0kBDItsazD)
-    : folder for any other course materials (see ideas section above).
-
-
-### Contributing guidelines for course-specific materials
+#### Contributing guidelines for course-specific materials
 
 For file uploads to the Google Drive folder in course-specific
 repositories, please add a dated prefix to the filename of the form
@@ -226,7 +130,7 @@ platform. Just add a Google document to the Google drive folder with a
 link to the external repository and instructions for how to obtain
 access/edit permissions.
 
-### Ideas of course-specific materials to Document
+#### Ideas of course-specific materials to Document
 
 -   **Contact information**
 -   **TA responsibilities and weekly time spent on each responsibility
@@ -274,7 +178,7 @@ access/edit permissions.
     future TAs successfully work with faculty.
 
 
-### Origins of this website and TA resources
+#### Origins of this website and TA resources
 
 This website was originally put together by the participants of a
 [Center for Teaching and
@@ -283,8 +187,8 @@ documentation. The original workshop website is available at
 <http://www.columbia.edu/~akm2203/eaee-ta-resources-workshop-version.html>
 if you want more information.
 
-Contact
--------
+#### Contact
+
 
 Please contact Adam Massmann (akm2203) with any questions, concerns,
 and/or issues.

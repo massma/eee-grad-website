@@ -14,7 +14,7 @@ NEEDS = $(T)/index.html \
 
 PANDOC = sed 's/\.md/\.html/g' | pandoc -s -c "http://www.columbia.edu/~akm2203/pandoc.css" --from markdown --to html5
 
-LINK_HEADER = sed -z 's/---\n\(.*\n\)*---\n/&\n[{Back to Home}](index.html) **|** [{Current student resources}](current-student-resources.md) **|** [{TA resources (password protected)}](ta-resources.md) **|** [{Summer Seminar Series of 2021}](seminar-series.md)\n/'
+LINK_HEADER = sed -z 's/---\n\(.*\n\)*---\n/&\n[{Back to Home}](index.html) **|** [{Ph.D. student resources}](current-student-resources.md) **|** [{TA resources (password protected)}](ta-resources.md) **|**\\\n[{Summer Seminar Series of 2021}](seminar-series.md)\n/'
 
 all : public_html $(NEEDS)
 

@@ -9,7 +9,7 @@ University.
 
 ### Menu
 
-- [Resources for current Enviornmental Engineering students](current-student-resources.md)
+- [Resources for current Enviornmental Engineering grad students](current-student-resources.md)
 - [TA resources](ta-resources.md) (password protected; if you are a TA
   email Adam (uni:akm2203) for the password)
 - [2021 Summer Seminar Series](seminar-series.md) - this is a seminar

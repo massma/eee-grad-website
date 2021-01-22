@@ -3,8 +3,8 @@ pagetitle: "Grad Student Resources"
 language: en
 ---
 
-Columbia EEE Graduate Student Resources
----------------------------------------
+## Columbia EEE Graduate Student Resources
+
 
 This website is provided for EEE students, by EEE students. Please see
 the links below for resources and information for current students.
