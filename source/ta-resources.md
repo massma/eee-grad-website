@@ -38,11 +38,6 @@ email Adam (uni:akm2203) and he will fix that!
     this varies strongly week to week, but these are just an estimate on
     average time per week), and any other information that might help
     future TAs (see ideas section above).
--   [Student FAQ (with
-    answers)](https://drive.google.com/open?id=1XyJs8pQDFKt2LCZxH6w1sBpOmDJJAWyRswz4czhkR18)
-    : any common questions students ask, with previous TAs\' responses.
-    Future TAs can then use these answers as a starting point, and edit,
-    improve, and add to them as needed.
 -   [Folder for uploading other course
     materials](https://drive.google.com/open?id=1-QCpkvvXDYp1kiVEevhWiCk3VERvwh9r)
     : folder for any other course materials (see ideas section above).
@@ -57,11 +52,6 @@ email Adam (uni:akm2203) and he will fix that!
     this varies strongly week to week, but these are just an estimate on
     average time per week), and any other information that might help
     future TAs (see ideas section above).
--   [Student FAQ (with
-    answers)](https://drive.google.com/open?id=1SydPr-8aGv7yWH8_pORgBy7NEbdRmEW1eWaLyE2MJCk)
-    : any common questions students ask, with previous TAs\' responses.
-    Future TAs can then use these answers as a starting point, and edit,
-    improve, and add to them as needed.
 -   [Folder for uploading other course
     materials](https://drive.google.com/open?id=1-F1mqv_3tHMB1BrRr87n97wVkPLi1Lk8)
     : folder for any other course materials (see ideas section above).
@@ -75,11 +65,6 @@ email Adam (uni:akm2203) and he will fix that!
     this varies strongly week to week, but these are just an estimate on
     average time per week), and any other information that might help
     future TAs (see ideas section above).
--   [Student FAQ (with
-    answers)](https://drive.google.com/open?id=1JLRt-38rzarxED3yuudaZmlR0GYEga7SNRwCL6XISRk)
-    : any common questions students ask, with previous TAs\' responses.
-    Future TAs can then use these answers as a starting point, and edit,
-    improve, and add to them as needed.
 -   [Folder for uploading other course
     materials](https://drive.google.com/open?id=10DCXKEHvSzdiPjg_tSPCh0T4SLSamjgd)
     : (optional) upload any other course materials here. See the
@@ -95,11 +80,6 @@ email Adam (uni:akm2203) and he will fix that!
     this varies strongly week to week, but these are just an estimate on
     average time per week), and any other information that might help
     future TAs (see ideas section above).
--   [Student FAQ (with
-    answers)](https://drive.google.com/open?id=1ZFU4oCMxvvBdLDR8xfCGb3WXWQ5fgLb3XV5zkV4nyg0)
-    : any common questions students ask, with previous TAs\' responses.
-    Future TAs can then use these answers as a starting point, and edit,
-    improve, and add to them as needed.
 -   [Folder for uploading other course
     materials](https://drive.google.com/open?id=1-cJfQj-fjiO2c6fB5XZQSg0CQFKyX8Dr)
     : folder for any other course materials (see ideas section above).
@@ -116,11 +96,6 @@ email Adam (uni:akm2203) and he will fix that!
     this varies strongly week to week, but these are just an estimate on
     average time per week), and any other information that might help
     future TAs (see ideas section above).
--   [Student FAQ (with
-    answers)](https://docs.google.com/document/d/1RqD9zMeMuTEDRaYbboIJdYkCn23extPe98o_2I0kWLs/edit?usp=sharing)
-    : any common questions students ask, with previous TAs\' responses.
-    Future TAs can then use these answers as a starting point, and edit,
-    improve, and add to them as needed.
 -   [Folder for uploading other course
     materials](https://drive.google.com/drive/folders/10c0HEn13nDM3s5kkCcB5-wh0V09E1ihS?usp=sharing)
     : folder for any other course materials (see ideas section above).
@@ -134,11 +109,6 @@ email Adam (uni:akm2203) and he will fix that!
     this varies strongly week to week, but these are just an estimate on
     average time per week), and any other information that might help
     future TAs (see ideas section above).
--   [Student FAQ (with
-    answers)](https://drive.google.com/open?id=14uIpoNFZI_x0CfWWPOvLhSSUjyxNm97s8z1-_vBpuXg)
-    : any common questions students ask, with previous TAs\' responses.
-    Future TAs can then use these answers as a starting point, and edit,
-    improve, and add to them as needed.
 -   [Folder for uploading other course
     materials](https://drive.google.com/open?id=1-pasBhpfQCUvNNZ4JTqUcEay2A1gt8fJ)
     : (optional) upload any other course materials here. See the
@@ -154,11 +124,6 @@ email Adam (uni:akm2203) and he will fix that!
     this varies strongly week to week, but these are just an estimate on
     average time per week), and any other information that might help
     future TAs (see ideas section above).
--   [Student FAQ (with
-    answers)](https://drive.google.com/open?id=1DheMnyN0vecx4-IMCDEJArUvRZ3seMartu9gXjQv2sc)
-    : any common questions students ask, with previous TAs\' responses.
-    Future TAs can then use these answers as a starting point, and edit,
-    improve, and add to them as needed.
 -   [Folder for uploading other course
     materials](https://drive.google.com/open?id=1-j9Q59b86aj5EmmCnX0rGXgUqpsTa3G9)
     : (optional) upload any other course materials here. See the
@@ -175,11 +140,6 @@ email Adam (uni:akm2203) and he will fix that!
     this varies strongly week to week, but these are just an estimate on
     average time per week), and any other information that might help
     future TAs (see ideas section above).
--   [Student FAQ (with
-    answers)](https://drive.google.com/open?id=12Ro_I_a4dT8BK9ZaO7tsR5xGYNwM4pVNUcJooJKLFEc)
-    : any common questions students ask, with previous TAs\' responses.
-    Future TAs can then use these answers as a starting point, and edit,
-    improve, and add to them as needed.
 -   [Folder for uploading other course
     materials](https://drive.google.com/open?id=1-g1hactELHuoyW8sJ6KuDvA8rKPGBFIT)
     : (optional) upload any other course materials here. See the
@@ -195,11 +155,6 @@ email Adam (uni:akm2203) and he will fix that!
     this varies strongly week to week, but these are just an estimate on
     average time per week), and any other information that might help
     future TAs (see ideas section above).
--   [Student FAQ (with
-    answers)](https://drive.google.com/open?id=1578uzHSKhynHof7jA2jHL5WDlhu7CEOtCf8VDFO_cLg)
-    : any common questions students ask, with previous TAs\' responses.
-    Future TAs can then use these answers as a starting point, and edit,
-    improve, and add to them as needed.
 -   [Folder for uploading other course
     materials](https://drive.google.com/open?id=1-AbF9c7RAztb23mGdEZHKnhxmHr2hUOo)
     : folder for any other course materials (see ideas section above).
@@ -213,11 +168,6 @@ email Adam (uni:akm2203) and he will fix that!
     this varies strongly week to week, but these are just an estimate on
     average time per week), and any other information that might help
     future TAs (see ideas section above).
--   [Student FAQ (with
-    answers)](https://drive.google.com/open?id=14-KpyXTDdCum0WfgoT3FcTSNtIR7gtc01oOQLesUxFM)
-    : any common questions students ask, with previous TAs\' responses.
-    Future TAs can then use these answers as a starting point, and edit,
-    improve, and add to them as needed.
 -   [Folder for uploading other course
     materials](https://drive.google.com/open?id=1-wQSEycsrSuw9bpl_oK7X2is0nqlxQ-a)
     : (optional) upload any other course materials here. See the
