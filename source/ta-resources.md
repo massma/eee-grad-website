@@ -110,25 +110,17 @@ email Adam (uni:akm2203) and he will fix that!
 #### Contributing guidelines for course-specific materials
 
 For file uploads to the Google Drive folder in course-specific
-repositories, please add a dated prefix to the filename of the form
-\"YYYY-Semester-filename.extension.\" Please **do not include any
-spaces** in the filename. For example, if I was uploading a picture of
-the first midterm solutions for Fall of 2019 I would call the file:
-
-\"2019-Fall-midterm1-solutions.jpg\"
-
-Or if I was uploading a pdf of the first Problem Set for a course in
-Spring of 2020, I would call the file:
-
-\"2020-Spring-ps1.pdf\"
+repositories, please make sure you include some reference to the
+**year** and **semester** you were TAing, either in the file names or
+by making a separate folder.
 
 Please reach out to Adam (uni: akm2203) if you have any questions.
 
-If you already have a course repository hosted on another platform like
-Github or Dropbox, you can continue to host the repository on that
-platform. Just add a Google document to the Google drive folder with a
-link to the external repository and instructions for how to obtain
-access/edit permissions.
+Also, if you already have a course repository hosted on another
+platform like Github or Dropbox, please continue to host the
+repository on that platform if you prefer. Just add a link link to the
+external repository and instructions for how to obtain access/edit
+permissions to the "Previous TAs" Google doc for your course.
 
 #### Ideas of course-specific materials to Document
 
