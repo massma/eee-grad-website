@@ -110,17 +110,17 @@ email Adam (uni:akm2203) and he will fix that!
 #### Contributing guidelines for course-specific materials
 
 For file uploads to the Google Drive folder in course-specific
-repositories, please make sure you include some reference to the
-**year** and **semester** you were TAing, either in the file names or
-by making a separate folder.
-
-Please reach out to Adam (uni: akm2203) if you have any questions.
+repositories, please try to include some reference to the **year** and
+**semester** you were TAing, either in the file names or by making a
+separate folder.
 
 Also, if you already have a course repository hosted on another
 platform like Github or Dropbox, please continue to host the
 repository on that platform if you prefer. Just add a link link to the
 external repository and instructions for how to obtain access/edit
 permissions to the "Previous TAs" Google doc for your course.
+
+Please reach out to Adam (uni: akm2203) if you have any questions.
 
 #### Ideas of course-specific materials to Document
 

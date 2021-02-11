@@ -18,4 +18,4 @@ presentations will be scheduled for June-early August 2021.
 
 More information will be available soon, but in the meantime if you
 have any questions please reach out to Adam Massmann
-(akm2203@columbia.edu) or Sara Hamilton (sth2128@columbia.edu).
+(akm2203@columbia.edu) and/or Sara Hamilton (sth2128@columbia.edu).
