@@ -63,6 +63,7 @@ Google Docs/Drive folders!
       Campus](https://clio.columbia.edu/catalog/14288290)
     - [World Cinema on
       Demand](https://digital.films.com/p_Search.aspx?st=adv&rd=title&sid=1709&sortby=Relevance&type=browse&level=Subject)
+    - [Kanopy](https://clio.columbia.edu/catalog/14288284)
 
   Put all together, it's a pretty expansive collection from
   blockbusters to docs to foreign films to art films.
