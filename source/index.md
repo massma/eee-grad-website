@@ -20,8 +20,10 @@ University.
 #### Feedback and Contributions
 
 We are hoping to continually refine the website structure and content,
-so feedback is very welcome. Please email
+so feedback and ideas for more content are very welcome. Please email
 [Adam](http://www.columbia.edu/~akm2203/) (akm2203@columbia.edu) if
-you have any questions or comments. If you would like to edit the
-website directly, please see the [source on
-Github](https://github.com/massma/eee-grad-website).
+you have any questions or comments. Or even better yet, if you would
+like to edit the website directly, please see the [source on
+Github](https://github.com/massma/eee-grad-website). (and if you have
+questions on how to edit the website source, Adam is happy to walk you
+through that).

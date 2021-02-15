@@ -10,9 +10,10 @@ language: en
   Environmental
   Engineering",
   with
-  [slides](https://drive.google.com/file/d/1EuB7GhQnE7q98BraTVnPeqhrGLgsvqiX/view?usp=sharing) (led
+  [slides](https://drive.google.com/file/d/1EuB7GhQnE7q98BraTVnPeqhrGLgsvqiX/view?usp=sharing) (organized
   by [Ian
-  Billinge](https://yiplab-h2o-e-env.eee.columbia.edu/ian-billinge)).
+  Billinge](https://yiplab-h2o-e-env.eee.columbia.edu/ian-billinge);
+  presentation by [Chae Jeong-Potter](http://www.columbia.edu/cu/catalysis-environment/phdstudents.html) and [Sara Hamilton](https://parklab.engineering.columbia.edu/people/sara-triana-hamilton)).
 
 #### General links on getting/applying for a Ph.D.
 

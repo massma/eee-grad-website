@@ -50,7 +50,7 @@ Google Docs/Drive folders!
 
 ### General Columbia Resources
 
-- **Movies!!** (and some TV). Unknown to many, Columbia library
+- **Movies!** (and some TV). Unknown to many, Columbia library
   provides access to a ton of streaming services. The [list is
   available
   here](https://guides.library.columbia.edu/c.php?g=957347&p=6910938). They
