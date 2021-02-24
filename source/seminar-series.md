@@ -57,9 +57,3 @@ include:
 
 If you have any questions please reach out to Adam Massmann
 (akm2203@columbia.edu) and/or Sara Hamilton (sth2128@columbia.edu).
-
-----------------------
-**Disclaimer**: this is a purely student-run graduate seminar series,
-and at this time it is not affiliated with the faculty or
-administration at Columbia University's Department of Earth and
-Environmental Engineering.
