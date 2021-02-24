@@ -61,4 +61,4 @@ If you have any questions please reach out to Adam Massmann
 ----------------------
 **Disclaimer**: this is a purely student-run graduate seminar series,
 and at this time it is not affiliated with the faculty or
-administration at
+administration at Columbia University.
