@@ -67,3 +67,7 @@ Google Docs/Drive folders!
 
   Put all together, it's a pretty expansive collection from
   blockbusters to docs to foreign films to art films.
+
+### General Grad Student Resources
+
+- [How to prepare your grad student tax return](http://pfforphds.com/prepare-grad-student-tax-return/)
