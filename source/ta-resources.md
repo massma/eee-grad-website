@@ -58,6 +58,12 @@ email Adam (uni:akm2203) and he will fix that!
     -   [Folder for uploading other course
         materials](https://drive.google.com/drive/folders/10c0HEn13nDM3s5kkCcB5-wh0V09E1ihS?usp=sharing)
 
+- **Environmental Microbiology (EAEE 3901/EAEE 4901)**
+    -   [Previous TAs, FAQ, and Course
+        Responsibilities](https://docs.google.com/document/d/1_SmHzc3eIfI1ARD4ViGN-NyAHS7pvfndHy_Vs06wF2g/edit?usp=sharing)
+    -   [Folder for uploading other course
+        materials](https://drive.google.com/drive/folders/1X74qOSuAqLKd9ffhG6COhJK5l_EeKfbd?usp=sharing)
+
 - **Industrial ecology of earth resources (EAEE 4001)**
     -   [Previous TAs, FAQ, and Course
         Responsibilities](https://drive.google.com/open?id=1VyjE1CQfFeiWGpePn8n-lcaGOP9otZSIpE92EcVrGBQ)
