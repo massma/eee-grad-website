@@ -1,5 +1,5 @@
 ---
-pagetitle: "Columbia EEE Summer Seminar Series"
+pagetitle: "Grad Summer Seminar Series"
 language: en
 ---
 
@@ -46,8 +46,7 @@ fields in environmental impacts and environmental science.
 For the selected speakers, potential benefits of participation
 include:
 
-- A relatively low stakes, intimate venue to practice the type of
-  seminar presentation common during faculty hiring processes.
+- An intimate venue to practice a "seminar"-type presentation.
 - Feedback from graduate and undergraduate students (optional but
   available if the speaker would value it).
 - An opportunity to make meaningful connections with fellow young
