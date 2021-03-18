@@ -7,10 +7,9 @@ language: en
 
 For 2021, we are pleased to introduce the inaugural Earth and
 Environmental Engineering Summer Seminar Series at Columbia
-University. This graduate student-run
-seminar series **hosts early career researchers (Ph.D. students and
-recent Ph.D. graduates [within 5 years and without a tenure-track
-appointment]).**
+University. This graduate student-run seminar series **hosts early
+career researchers (Ph.D. students and recent Ph.D. graduates [within
+5 years and without a tenure-track appointment]).**
 
 The goals of this seminar series are to:
 
@@ -63,10 +62,4 @@ include:
 
 If you have any questions please reach out to Adam Massmann
 (akm2203@columbia.edu) and/or Sara Hamilton
-(sth2128@columbia.edu). This seminar series is organized by:
-
-- Monica Abdallah
-- Ian Billinge
-- Chae Jeong-Potter
-- Sara Hamilton
-- Adam Massmann
+(sth2128@columbia.edu).
