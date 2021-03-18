@@ -56,14 +56,14 @@ Google Docs/Drive folders!
   here](https://guides.library.columbia.edu/c.php?g=957347&p=6910938). They
   are all great, but the following are particularly broad in offerings:
 
-    - [Alexander Street](https://video.alexanderstreet.com/)
     - [Feature films for
       education](https://clio.columbia.edu/catalog/14965385)
     - [Swank Digital
       Campus](https://clio.columbia.edu/catalog/14288290)
+    - [Kanopy](https://clio.columbia.edu/catalog/14288284)
+    - [Alexander Street](https://video.alexanderstreet.com/)
     - [World Cinema on
       Demand](https://digital.films.com/p_Search.aspx?st=adv&rd=title&sid=1709&sortby=Relevance&type=browse&level=Subject)
-    - [Kanopy](https://clio.columbia.edu/catalog/14288284)
 
   Put all together, it's a pretty expansive collection from
   blockbusters to docs to foreign films to art films.
