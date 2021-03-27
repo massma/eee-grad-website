@@ -15,7 +15,7 @@ The goals of this seminar series are to:
 
 - Represent the emerging diversity in our field.
 - Share new ideas and build community between students based here in
-  out department and researchers around the globe.
+  our department and researchers around the globe.
 - Provide a space for young, innovative, and open-minded researchers
   to participate in a seminar series. Many other seminar series tend
   to invite senior researchers, and we are excited to host and engage
@@ -38,14 +38,13 @@ networks. We are especially interested in hearing from young
 researchers of diverse backgrounds. Members of underrepresented groups
 in STEM are highly encouraged to submit an application. While our
 active research areas include **energy** (renewable energy and grid
-integration, electrochemical energy storage, carbon capture
-utilization and storage), **water** (climate and risk mitigation of
-water systems, desalination, biological waste water treatment, global
-hydrology and land-atmosphere interactions) and **sustainable
-materials** (recycling and reuse, rare earth element extraction,
-climate and water risks associated with mining operations), we
-additionally welcome submissions from related fields in environmental
-impacts and environmental science.
+integration, energy storage, carbon capture utilization and storage),
+**water** (climate and risk mitigation of water systems, hydrology and
+land-atmosphere interactions, desalination, drinking water and
+wastewater treatment) and **sustainable materials** (recycling and
+reuse, sustainable mining, climate and water risks associated with
+mining operations), we welcome submissions from related fields in
+environmental impacts and environmental science.
 
 Speakers will be selected and notified in late April/early May, and
 presentations will be scheduled for June-early August 2021, over
@@ -56,10 +55,16 @@ include:
 - Feedback from graduate and undergraduate students (optional but
   available if the speaker would value it).
 - An opportunity to make meaningful connections with fellow young
-  researchers based in our department.
+  researchers in our department.
 - An official "invited-speaker" invitation to present in the seminar
   series.
 
 If you have any questions please reach out to Adam Massmann
 (akm2203@columbia.edu) and/or Sara Hamilton
-(sth2128@columbia.edu).
+(sth2128@columbia.edu). This seminar series is organized by:
+
+- Sara Hamilton
+- Adam Massmann
+- Chae Jeong-Potter
+- Ian Billinge
+- Monica Abdallah
