@@ -58,6 +58,8 @@ include:
   researchers in our department.
 - An official "invited-speaker" invitation to present in the seminar
   series.
+- An Outstanding Speaker Award (with a $200 prize) given to the
+  speaker students in our department found particularly engaging.
 
 If you have any questions please reach out to Adam Massmann
 (akm2203@columbia.edu) and/or Sara Hamilton
