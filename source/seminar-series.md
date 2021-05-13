@@ -28,7 +28,8 @@ The goals of this seminar series are to:
 
 If you are interested in speaking during the seminar series, **please
 fill out [this short
-application](https://docs.google.com/forms/d/1x05IPe6zoQbrJ5OSldxM5aMGrGUGwOI1Ex4qCCRw914)**. Applicants
+application](https://docs.google.com/forms/d/1x05IPe6zoQbrJ5OSldxM5aMGrGUGwOI1Ex4qCCRw914)
+by May 14th, 2021**. Applicants
 will be selected based on clarity in posing a scientific problem of
 interest to our department’s core research areas (energy, water, and
 sustainable materials), as well as service and broader impacts. Our
@@ -58,15 +59,16 @@ include:
   researchers in our department.
 - An official "invited-speaker" invitation to present in the seminar
   series.
-- An Outstanding Speaker Award (with a $200 prize) given to the
-  speaker students in our department found particularly engaging.
+- An Outstanding Speaker Award (with a $200 prize) given to
+  particularly engaging speaker(s).
 
-If you have any questions please reach out to Adam Massmann
-(akm2203@columbia.edu) and/or Sara Hamilton
-(sth2128@columbia.edu). This seminar series is organized by:
+If you have any questions please reach out to Sara Hamilton
+(sth2128@columbia.edu), Chae Jeong-Potter (chae.jeong@columbia.edu),
+and/or Adam Massmann (akm2203@columbia.edu). This seminar series is
+organized by:
 
 - Sara Hamilton
-- Adam Massmann
 - Chae Jeong-Potter
+- Adam Massmann
 - Ian Billinge
 - Monica Abdallah

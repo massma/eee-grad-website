@@ -27,3 +27,10 @@ like to edit the website directly, please see the [source on
 Github](https://github.com/massma/eee-grad-website). (and if you have
 questions on how to edit the website source, Adam is happy to walk you
 through that).
+
+#### History
+
+This website has grown, with community contributions, from a website
+originally put together by the participants of a [Center for Teaching
+and Learning (CTL)](https://ctl.columbia.edu/)-sponsored workshop on
+TA documentation. Thank you to the CTL for their support and funding!
