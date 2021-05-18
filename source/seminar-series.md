@@ -26,41 +26,10 @@ The goals of this seminar series are to:
   [Graduate Climate
   Conference](https://pcc.uw.edu/events/graduate-climate-conference/).
 
-If you are interested in speaking during the seminar series, **please
-fill out [this short
-application](https://docs.google.com/forms/d/1x05IPe6zoQbrJ5OSldxM5aMGrGUGwOI1Ex4qCCRw914)
-by May 14th, 2021**. Applicants
-will be selected based on clarity in posing a scientific problem of
-interest to our department’s core research areas (energy, water, and
-sustainable materials), as well as service and broader impacts. Our
-motivation for the open application is to insure that seminar speakers
-are not limited to those already in our professional and social
-networks. We are especially interested in hearing from young
-researchers of diverse backgrounds. Members of underrepresented groups
-in STEM are highly encouraged to submit an application. While our
-active research areas include **energy** (renewable energy and grid
-integration, energy storage, carbon capture utilization and storage),
-**water** (climate and risk mitigation of water systems, hydrology and
-land-atmosphere interactions, desalination, drinking water and
-wastewater treatment) and **sustainable materials** (recycling and
-reuse, sustainable mining, climate and water risks associated with
-mining operations), we welcome submissions from related fields in
-environmental impacts and environmental science.
-
-Speakers will be selected and notified in late April/early May, and
-presentations will be scheduled for June-early August 2021, over
-Zoom. For the selected speakers, potential benefits of participation
-include:
-
-- An intimate venue to give a "seminar"-type presentation.
-- Feedback from graduate and undergraduate students (optional but
-  available if the speaker would value it).
-- An opportunity to make meaningful connections with fellow young
-  researchers in our department.
-- An official "invited-speaker" invitation to present in the seminar
-  series.
-- An Outstanding Speaker Award (with a $200 prize) given to
-  particularly engaging speaker(s).
+Our application for interested speakers is now closed. Speakers will
+be selected and notified by May 24th, and presentations will be
+scheduled for June-early August 2021, over Zoom. Thank you to all of
+the potential speakers that applied!
 
 If you have any questions please reach out to Sara Hamilton
 (sth2128@columbia.edu), Chae Jeong-Potter (chae.jeong@columbia.edu),
