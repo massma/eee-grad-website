@@ -26,10 +26,42 @@ The goals of this seminar series are to:
   [Graduate Climate
   Conference](https://pcc.uw.edu/events/graduate-climate-conference/).
 
-Our application for interested speakers is now closed. Speakers will
-be selected and notified by May 24th, and presentations will be
-scheduled for June-early August 2021, over Zoom. Thank you to all of
-the potential speakers that applied!
+We are thrilled to announce our invited speakers for 2021:
+
+- Hollie Adejumo
+- Harsh Agarwal
+- Steven Chavez
+- Devon Kerins
+- Anna Kogler
+- Chinomso Onuoha
+- Solomon Oyakhire
+- Enrique Rodriguez
+- Qianhong Zhu
+
+If you would like to attend the seminar series, please fill out this
+[form](https://docs.google.com/forms/d/1KuTHTBlJgvk2jgsaiDmrdJkMkb14aSpWE5BlAQT-gPk);
+we will send out Zoom links for the seminars that are open to the
+public. Our public schedule for this summer is:
+
+- June 10: Qianhong Zhu, *Electrochemical Hydrogen Peroxide Generation
+  for Advanced Oxidation Process*
+- June 24: Harsh Agarwal, *A More Efficient Vanadium Based Redox Flow
+  Battery with Enhanced V2+/V3+ Charge Transfer*
+- July 8: Solomon Oyakhire, *Understanding and Controlling the
+  Electrodeposition of Lithium Metal Using Atomic Layer Deposition*
+- July 15: Steven Chavez, *Engineering Energy Flow in Hybrid Plasmonic
+  Systems*
+- July 29: Chinomso Onuoha, *Technology for Small-Scale Wind-Powered
+  Ammonia Synthesis*
+- August 5: Enrique Rodriguez, *Assessing and Addressing Chemical Risk
+  in Water Reuse and Resource Recovery*
+- August 12: Anna Kogler, *Waste to Value: Benchmarking and Advancing
+  Electrochemical Nitrogen Recovery from Wastewater*
+- August 19: Devon Kerins, *Climate as the predominate driver for
+  carbon levels in the Rocky Mountains*
+
+All presentations are from 11:00-12:00 Eastern Daylight Time
+(UTC-04:00).
 
 If you have any questions please reach out to Sara Hamilton
 (sth2128@columbia.edu), Chae Jeong-Potter (chae.jeong@columbia.edu),
