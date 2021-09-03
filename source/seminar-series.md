@@ -10,10 +10,9 @@ Environmental Engineering Summer Seminar Series at Columbia
 University. This graduate student-run seminar series features research
 from early career researchers.
 
-**If you would like to attend the seminar series, please fill out this
-[form](https://docs.google.com/forms/d/1KuTHTBlJgvk2jgsaiDmrdJkMkb14aSpWE5BlAQT-gPk)**;
-we will send out Zoom links for the seminars that are open to the
-public.
+**If you would like to attend the seminar series, please fill out [this
+form](https://docs.google.com/forms/d/1KuTHTBlJgvk2jgsaiDmrdJkMkb14aSpWE5BlAQT-gPk)**
+and we will send out Zoom links for each seminar.
 
 #### 2021 Seminar Schedule and Invited Speakers
 
