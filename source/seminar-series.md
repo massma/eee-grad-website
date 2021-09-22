@@ -10,9 +10,14 @@ Environmental Engineering Summer Seminar Series at Columbia
 University. This graduate student-run seminar series features research
 from early career researchers.
 
-**If you would like to attend the seminar series, please fill out [this
-form](https://docs.google.com/forms/d/1KuTHTBlJgvk2jgsaiDmrdJkMkb14aSpWE5BlAQT-gPk)**
-and we will send out Zoom links for each seminar.
+The 2021 Seminar Series was a success, thanks to all of the engaging
+talks by our exceptional speakers! We thank all of our invited
+speakers for sharing their wisdom and knowledge.
+
+After reviewing department student feedback, we recognize Qianhong Zhu
+and Anna Kogler as 2021 **Outstanding Speakers**. This award comes
+with a $200 cash prize in recognition of their unique contributions to
+the seminar series.
 
 #### 2021 Seminar Schedule and Invited Speakers
 
